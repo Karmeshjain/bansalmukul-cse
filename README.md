@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Enthusiastic+Learner+with+a+;passion+of+programming+and+;become+a+developer&font=Fira%20Code&center=true&width=440&height=45&color=406df7&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+;Mukul+Bansal;Follow+me&font=Fira%20Code&center=true&width=440&height=45&color=406df7&vCenter=true&size=22"></a>
 </p>
 
 - 🔭 I’m currently working on **Sunshine App**
